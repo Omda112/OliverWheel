@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import wheelSvg from '../public/Artboard1.SVG'
+import wheelSvg from '../src/assets/Artboard1.SVG'
 
 const prizes = [
   { label: '100 ميلي هدية', from: 25, to: 80 },
